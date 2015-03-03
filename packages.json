@@ -1,0 +1,16 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "BigDatr Snippets",
+            "labels": ["snippets"],
+            "details": "https://github.com/bigdatr/sublime_snippets",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
